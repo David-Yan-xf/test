@@ -9,4 +9,5 @@ adfasfasd
 add sth else
 =======
 new branch£¬but I can modify..
+why are there so many strange words?
 >>>>>>> refs/heads/new
