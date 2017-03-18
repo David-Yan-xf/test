@@ -5,9 +5,13 @@ adfasfasd
 120.0
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 new branch£¬but I can modify..
 for new£¬second change.
 actually£¬this should be the second chg
+=======
+new branch£¬but I can modify..
+>>>>>>> parent of 51204f6... newï¼Œsecond
 =======
 new branch£¬but I can modify..
 >>>>>>> parent of 51204f6... newï¼Œsecond
