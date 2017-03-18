@@ -10,4 +10,5 @@ add sth else
 =======
 new branch£¬but I can modify..
 why are there so many strange words?
+ok£¬another test
 >>>>>>> refs/heads/new
