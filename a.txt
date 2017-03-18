@@ -4,5 +4,9 @@ adfasfasd
 2
 120.0
 
+<<<<<<< HEAD
 ÊÔÊÔ
 add sth else
+=======
+new branch£¬but I can modify..
+>>>>>>> refs/heads/new
